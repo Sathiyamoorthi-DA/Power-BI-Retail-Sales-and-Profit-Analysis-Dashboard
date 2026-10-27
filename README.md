@@ -13,7 +13,7 @@ The goal of this project is to provide a centralized analytical view of retail b
 
 [![Power-BI-Retail-Sales-and-Profit-Analysis-Dashboard](Screenshots/Sreenshot 2026-09-08-dashboard.png)](https://github.com/Sathiyamoorthi-DA/Power-BI-Retail-Sales-and-Profit-Analysis-Dashboard/blob/main/Screenshots/retail.png)
 
-[![Power-BI-Retail-Sales-and-Profit-Analysis-Dashboard](Screenshots/Sreenshot 2026-09-08-dashboard.png)](https://github.com/Sathiyamoorthi-DA/Power-BI-Retail-Sales-and-Profit-Analysis-Dashboard/blob/main/Screenshots/retail.png)
+[![Power-BI-Retail-Sales-and-Profit-Analysis-Dashboard](Screenshots/Sreenshot 2026-09-08-dashboard.png)](https://github.com/Sathiyamoorthi-DA/Power-BI-Retail-Sales-and-Profit-Analysis-Dashboard/blob/main/Screenshots/sss.png)
 
 [![Power-BI-Retail-Sales-and-Profit-Analysis-Dashboard](Screenshots/Sreenshot 2026-09-08-dashboard.png)](https://github.com/Sathiyamoorthi-DA/Power-BI-Retail-Sales-and-Profit-Analysis-Dashboard/blob/main/Screenshots/retail.png)
 
