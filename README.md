@@ -9,6 +9,9 @@ The dashboard transforms retail sales data into actionable business insights thr
 The goal of this project is to provide a centralized analytical view of retail business performance and help users monitor sales, profit, customers, products, regions, and operational trends.
 
 ---
+## Dashboard Preview
+
+[![Power-BI-Retail-Sales-and-Profit-Analysis-Dashboard](Screenshots/Sreenshot 2026-09-08-dashboard.png)](https://github.com/Sathiyamoorthi-DA/SBI-loan-portfolio-powerbi/blob/main/Screenshots/sbi-loan-portfolio-dashboard.png)
 
 ## 🎯 Business Objectives
 
